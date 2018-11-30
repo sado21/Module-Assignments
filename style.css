@@ -11,7 +11,7 @@ body {
 }
 #content {
   overflow : auto;
-  color : white;
+  color : green;
 }
 #nav, #feature, #footer {
   margin : 3%;
